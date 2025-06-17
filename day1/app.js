@@ -1,0 +1,43 @@
+window.console.log("HELLO from JS!");
+
+// let age=30;
+// const year=2010;
+// var block=33;
+// console.log(age, year, block);
+// console.log(myage);
+// var myage=21;
+// console.log(myage);
+// var myage=22;
+// console.log(myage);
+let age =22;
+console.log(age);
+
+// console.log(1+1);
+// console.log(1+'1');
+// console.log('1'+1);
+// console.log('1'+'1');
+// console.log(1-1);
+// console.log('a'-1);
+// console.log(1-'a');
+// console.log('1'-'a');
+// console.log(1*1);
+// console.log('a'*1);
+// console.log(1*'a');
+// console.log('1'*'a');
+// console.log(1/1);
+// console.log('a'/1);
+// console.log(1/'a');
+// console.log('1'/'a');
+// type coersion
+// console.log(1/1);
+// console.log('10'/1);
+// console.log(20/'5');
+// console.log('50'/'10');
+// console.log(1*1);
+// console.log('10'*1);
+// console.log(20*'5');
+// console.log('50'*'10');
+// console.log(1-1);
+// console.log('10'-1);
+// console.log(20-'5');
+// console.log('50'-'10');
